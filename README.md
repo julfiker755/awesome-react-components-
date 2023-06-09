@@ -7,7 +7,9 @@ every React component under the sun. So, what does "awesome" mean? Well:
 - It does so in a 🦄 unique, 🦋 beautiful, or 🏆 exceptional way. (And it's not super popular and well-known... no point in listing those.)
 - It has recent code commits!
  ## My use Table of Contents
-
+ - [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel)
+ - [swiper](https://github.com/nolimits4web/Swiper)
+ - [react-helmet-async](https://github.com/staylor/react-helmet-async#readme)
 ### Contributing
 
 Please review our [contributing guidelines](https://github.com/brillout/awesome-react-components/blob/master/CONTRIBUTING.md). We keep this list fresh by **requiring all PRs to remove one or more non-awesome entries from this list**. Please ONLY PR a new resource if you are ALSO removing one.
