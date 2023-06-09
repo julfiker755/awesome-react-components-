@@ -11,6 +11,19 @@ every React component under the sun. So, what does "awesome" mean? Well:
  - [swiper](https://github.com/nolimits4web/Swiper)
  - [react-helmet-async](https://github.com/staylor/react-helmet-async#readme)
  -  [react-parallax](https://www.npmjs.com/package/react-parallax) 
+ -  [react-tabs](https://github.com/reactjs/react-tabs) 
+ -  [demo](demo) 
+ -  [demo](demo) 
+ -  [demo](demo) 
+ -  [demo](demo) 
+ -  [demo](demo) 
+ -  [demo](demo) 
+ -  [demo](demo) 
+ -  [demo](demo) 
+ -  [demo](demo) 
+ -  [demo](demo) 
+
+
 ### Contributing
 
 Please review our [contributing guidelines](https://github.com/brillout/awesome-react-components/blob/master/CONTRIBUTING.md). We keep this list fresh by **requiring all PRs to remove one or more non-awesome entries from this list**. Please ONLY PR a new resource if you are ALSO removing one.
