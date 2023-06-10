@@ -12,7 +12,7 @@ every React component under the sun. So, what does "awesome" mean? Well:
  - [react-helmet-async](https://github.com/staylor/react-helmet-async#readme)
  -  [react-parallax](https://www.npmjs.com/package/react-parallax) 
  -  [react-tabs](https://github.com/reactjs/react-tabs) 
- -  [demo](demo) 
+ -  [react-simple-captcha](https://www.npmjs.com/package/react-simple-captcha) 
  -  [demo](demo) 
  -  [demo](demo) 
  -  [demo](demo) 
