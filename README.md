@@ -4,7 +4,7 @@ This is a list of AWESOME components. Nope, it's NOT a comprehensive list of
 every React component under the sun. So, what does "awesome" mean? Well:
 
 - It solves a real problem
-- It does so in a 🦄 unique, 🦋 beautiful, or 🏆 exceptional way. (And it's not super popular and well-known... no point in listing those.)
+- It does so in a 🦄 unique, 🦋 beautiful, or 🏆 exceptfional way. (And it's not super popular and well-known... no point in listing those.)
 - It has recent code commits!
  ## My use Table of Contents
  - [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel)
